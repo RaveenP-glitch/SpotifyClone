@@ -1,2 +1,2 @@
-# NetflixClone
+# SpotifyClone
 Clone app
