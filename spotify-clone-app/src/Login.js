@@ -11,7 +11,7 @@ function Login() {
 
             {/* Login with Spotify button */}
             <a>LOGIN WITH SPOTIFY</a>
-
+           
         </div>
     )
 }
